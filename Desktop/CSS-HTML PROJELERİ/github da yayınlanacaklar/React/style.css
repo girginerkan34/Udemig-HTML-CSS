@@ -1,0 +1,15 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px
+}
+
+maps{
+    height: 400px;
+    width: 100px;
+}
+
+.priv-link{
+    text-decoration: none;
+    font-weight: bold;
+}
